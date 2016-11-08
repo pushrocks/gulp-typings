@@ -22,7 +22,7 @@
   "homepage": "https://github.com/pushrocks/gulp-typings#readme",
   "dependencies": {
     "through2": "^2.0.1",
-    "typings-core": "^1.4.1",
+    "typings-core": "^2.0.0",
     "typings-global": "^1.0.8"
   },
   "devDependencies": {
